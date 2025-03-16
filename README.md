@@ -1,5 +1,11 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=ffffff)
 
+
+🔭 I’m currently Studying
+
+🌱 I’m currently learning Front-end
+
+📫 How to reach me: syje1004@naver.com
 <!--
 **Naongjin/Naongjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naongjin)](https://github.com/anuraghazra/github-readme-stats)
