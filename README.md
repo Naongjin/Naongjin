@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=ffffff)
 
 
-🔭 I’m currently Studying
+🔭 I’m currently Studying at Dongduk Women University
 
 🌱 I’m currently learning Front-end
 
