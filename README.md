@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=aad127)
+![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=b8f8fb)
 
 
 🔭 I’m currently Studying at Dongduk Women University
