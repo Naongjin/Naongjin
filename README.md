@@ -3,12 +3,14 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Naongjin. </h2>  
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-            <li> FE Developer / Game Developer</li>
-            </li>🔭 I’m currently Studying at Dongduk Women University</li>
-            <li>🌱 I’m currently learning Front end</li>
-            <li>📫 How to reach me: syje1004@naver.com</li>
-        </div> 
-    </div>
+          <div>
+           FE Developer / Game Developer
+           🔭 I’m currently Studying at Dongduk Women University
+           🌱 I’m currently learning Front end
+           📫 How to reach me: syje1004@naver.com
+          </div>
+        </div>
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
