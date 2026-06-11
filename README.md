@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=b8f8fb)
-
-
 🔭 I’m currently Studying at Dongduk Women University
 
 🌱 I’m currently learning Front-end
@@ -8,11 +5,16 @@
 📫 How to reach me: syje1004@naver.com
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0059,100:9dbd00&height=180&text=Naongjin%20‎=^._.^=%20∫&animation=twinkling&fontColor=000000&fontSize=60" />
-    </div>
-    <div align= "center"> 
+    ![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=b8f8fb)
+</div>
+<div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Naongjin. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> FE Developer / Game Developer</li></li>🔭 I’m currently Studying at Dongduk Women University</li></li></li>🌱 I’m currently learning Front<li>end</li></li></li>📫 How to reach me: syje1004@naver.com</li></li> </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+            <li> FE Developer / Game Developer</li>
+            </li>🔭 I’m currently Studying at Dongduk Women University</li>
+            <li>🌱 I’m currently learning Front end</li>
+            <li>📫 How to reach me: syje1004@naver.com</li>
+        </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
