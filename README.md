@@ -4,9 +4,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Naongjin. </h2>  
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
           <div>
-           FE Developer / Game Developer
-           🔭 I’m currently Studying at Dongduk Women University
-           🌱 I’m currently learning Front end
+           FE Developer / Game Developer<br/>
+           🔭 I’m currently Studying at Dongduk Women University<br/>
+           🌱 I’m currently learning Front end<br/>
            📫 How to reach me: syje1004@naver.com
           </div>
         </div>
