@@ -1,12 +1,5 @@
-🔭 I’m currently Studying at Dongduk Women University
+ ![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=b8f8fb)
 
-🌱 I’m currently learning Front-end
-
-📫 How to reach me: syje1004@naver.com
-
-<div align= "center">
-    ![header](https://capsule-render.vercel.app/api?text=Naongjin&type=venom&color=gradient&height=200&animation=twinkling&fontColor=b8f8fb)
-</div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Naongjin. </h2>  
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
